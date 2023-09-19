@@ -1,5 +1,5 @@
 # SC_302_Documentacion
-Repositorio de (Morgan Baldo) para la clase Documentación del Software
+Repositorio de (Morgan Baldo) para la clase Documentación del Software.
 
 Link Proyecto: https://github.com/users/BaldoCode/projects/1/views/1
 
